@@ -2,9 +2,10 @@
 
 # Overview
 
-An AgriTech start-up, called "Fruits!", seeks to offer innovative solutions for harvesting fruits. The start-up would first like to make itself known by providing the general public with a mobile application that would allow users to take a picture of a fruit and obtain information on this fruit.
+An AgriTech start-up, called "Fruits!", seeks to offer innovative solutions for harvesting fruits. The start-up would like to make itself known by providing the general public with a mobile application that would allow users to take a picture of a fruit and obtain information on this fruit.
 
-The goal of this project is to build a first version of the necessary Big Data architecture for the development of the mobile application.
+
+The goal of this project is to build a first version of the necessary Big Data architecture for the development of Fruits!'s mobile application.
 
 There are two main objectives. In a Big Data environment on AWS:
 
